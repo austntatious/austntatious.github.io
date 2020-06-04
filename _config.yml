@@ -1,9 +1,9 @@
 # main text of home
-name: Austin M. Tse
-bio: Systems enthusiast, business strategist, part-time philosopher.
+name: AT
+bio: Jack of all trades
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about random thoughts
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: assets/Austin-Tse-Software-resume-8-24-16.pdf
+resume: false
+resume-external: false
+resume-url: # assets/Austin-Tse-Software-resume-8-24-16.pdf
 url: http://austntatious.github.io
 
 permalink: /:title/
@@ -48,7 +48,7 @@ quora: Austin-Tse-4
 medium: austntatious
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: ayce24@gmail.com
+# email: ayce24@gmail.com
 
 authors:
     austintse:
