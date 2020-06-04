@@ -20,13 +20,15 @@ in society, as well as ones that ultimately impact human self-actualization. But
 
 <p> </p>
 
-<h2>Projects</h2>
+<h2>Projects & Jobs</h2>
 
 <ul>
 	<li><a href="https://github.com/austntatious/ordering-web-app">StreetEats On-Demand Food Delivery</a> | <a href="http://bit.ly/2bCOx8u">Press Release</a></li>
 	<li>MindMetrics Personality Analysis</li>
+	<li>Some stuff I can only write about under a pseudonym</li>
+	<li>Annual Summer Intern Party in SF Bay Area</li>
+	<li>Airbnb Superhost with 4.8 star rating</li>
+	<li>Retired Uber driver</li>
+	<li>Part-time Tutor</li>
 </ul>
 
-<h2>Resume</h2>
-
-[Check it out]({{ site.url }}/assets/Austin-Tse-Software-resume-8-24-16.pdf)
